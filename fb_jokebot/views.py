@@ -8,7 +8,7 @@ from pprint import pprint
 import json,requests,random,re
 
 #constants
-PAGE_ACCESS_TOKEN="EAAID2VtwGVIBAMOTBywyEL6ZAHjUoGntTikOGwsetAmvmqoCcnaHc0ZCfAZAaN7sQcRQvM6pGZCD1B2AlpVUaBeP8VFm61moyjoXih09bFeWlsV5KtBVyBBaznFZAaOKZBb4rijT31lZAoYXxIj5fZCmlyZBcPtunO7swQwqATgL9GAZDZD"
+PAGE_ACCESS_TOKEN="YOUR_PAGE_TOKEN"
 VERIFY_TOKEN="654321"
 
 #joke dictionary
